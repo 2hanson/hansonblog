@@ -1,0 +1,16 @@
+title : Hanson Day
+tagline: HA
+author :
+  name : Hanson Yu
+  email : hangzhong.yu@gemail.com
+  github : 2hanson
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
