@@ -82,3 +82,56 @@ html, body {
   border:1px solid #4C964D;
   color:#FFF;
 }
+
+a.button{
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFF;
+    display: inline-block;
+    background-color: #ca6666;
+    padding: 4px 18px;
+    margin: 0;
+    -webkit-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    -moz-transition: all 200ms ease-in;
+    cursor: pointer;
+    margin-bottom: 20px;
+    width: auto;
+    border: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+a.button.red {
+    background: #ca6666
+}
+a.button.navy {
+    background: #28343c
+}
+a.button.green {
+    background: #a3ca66
+}
+a.button.blue {
+    background: #0088cc
+}
+a.button.purple {
+    background: #7666ca
+}
+a.button.pink {
+    background: #ca6689
+}
+a.button.yellow {
+    background: #ecc512
+}
+a.button.orange {
+    background: #ec7c32
+}
+a.button.aqua {
+    background: #72d5d4
+}
+a.button:hover {
+    background: #28343c
+}
+a.button.navy:hover {
+    background: #ca6666
+}
+
