@@ -1,5 +1,5 @@
-title : Hanson Day
-tagline: HA
+title : Hanson's Blog
+tagline: Day
 author :
   name : Hanson Yu
   email : hangzhong.yu@gemail.com
@@ -11,6 +11,5 @@ navigation :
   - archive.html
   - tags.html
   - categories.html
-  - pages.html
   - about.md
   
